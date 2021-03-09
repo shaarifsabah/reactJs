@@ -1,5 +1,5 @@
 import * as PropTypes from "prop-types";
-import Button from "./button";
+import Button from "./Button";
 
 const Header = ({title}) => {
     const onClick = () => {
